@@ -1,2 +1,2 @@
-# NLP
+# NLP Assignments
 Assignments for DNLP.
