@@ -1,0 +1,4 @@
+naive:0.83
+cot:0.86
+icl:0.935
+reflexion:0.96

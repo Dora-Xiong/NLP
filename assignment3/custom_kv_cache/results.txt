@@ -1,0 +1,3 @@
+Time taken for golden greedy decoding without KV cache:  38.51377320289612
+Time taken for customized greedy decoding:  38.16457200050354
+Time taken for customized greedy decoding with KV cache:  26.747156858444214

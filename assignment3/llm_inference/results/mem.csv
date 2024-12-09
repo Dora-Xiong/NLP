@@ -1,0 +1,5 @@
+method,memory_usage
+baseline,639539200
+kv_cache,550231040
+4_bit,191598592
+8_bit,235212288

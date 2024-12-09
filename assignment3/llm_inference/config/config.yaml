@@ -1,0 +1,6 @@
+model_name: "gpt2"
+max_length: 200
+input_text: "This is the story of Cinderella:"
+use_kv_cache: False
+load_in_4bit: False
+load_in_8bit: True
